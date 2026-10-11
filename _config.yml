@@ -22,7 +22,7 @@ title: ENG-2205 Book Reports
 email: 221131646+lcvp@users.noreply.github.com
 description: >- # this means to ignore newlines until "baseurl:"
   My Fall 2026 Book Reports for ENG-2205.
-baseurl: "/eng-2205-book-reports/" # the subpath of your site, e.g. /blog
+baseurl: "/eng-2205-book-reports" # the subpath of your site, e.g. /blog
 url: "https://lcvp.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  lcvp
