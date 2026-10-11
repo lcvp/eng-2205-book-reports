@@ -18,4 +18,4 @@ Read the [About page](% link ./about.md %). Very cool.
 
 ## Blog posts
 
-- [2026/Oct/11: Prologue: A New Wind Blows]({% post_url 2026-10-11-a-new-wind-blows %})
+- [2026/Oct/11: Prologue: A New Wind Blows]({% post_url 2026-10-11-prologue-a-new-wind-blows %})
