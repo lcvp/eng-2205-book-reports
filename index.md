@@ -12,7 +12,7 @@ layout: default
 > Yeah, doubt it."  
 > — **Wheatley**, *Portal 2*
 
-Read the [About page]({{ site.baseurl }}{% link ./about.md %}). Very cool.
+Read the [About page]({{ site.baseurl }}{% link about.md %}). Very cool.
 
 ---
 
