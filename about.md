@@ -3,16 +3,19 @@ layout: default
 title: About
 permalink: /about/
 ---
+[Click to go back to Home][home-page]
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+# About
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+By order of the mighty Professor, all students must create a website to publish their weekly book reports.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+> "In the name of Hades! Olympus, I accept this message!"  
+> — **Zagreus**, *Hades*
 
+So there you have it. Rock and Stone!
 
-[jekyll-organization]: https://github.com/jekyll
+*Licensed under GPLv3, Made with Jekyll, Hosted with Github Pages.*
+
+[Click to go back to Home][home-page]
+
+[home-page]: {{ site.baseurl }}{% link index.md %}
