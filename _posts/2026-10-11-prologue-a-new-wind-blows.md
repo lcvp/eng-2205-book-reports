@@ -9,7 +9,15 @@ title: "Prologue: A New Wind Blows"
 
 # Prologue: A New Wind Blows
 
-This page is under construction.
+15 class sessions. 2 of them them exams. 1 syllabus review. 12 weeks for 1200 pages of readings.
+Which averages to 100 pages per week, or more practically 20 pages per day with some weeks even up to 40.
+While juggling 5 other courses this semester.
+
+> "There's a limit to what average people can do... It's a line we average joes just can't cross and it's what separates us from people with actual talent!"  
+> "Limits, you say? But who decides one's limits? And based on what, exactly? You said you worked as hard as you can? Well, then maybe you just need to work a little harder. Is this really the limit of your power? Or could the you of tomorrow beat the you of today? Instead of giving in, just move forward."  
+> - **Saitama** to **Glasses**, *One Punch Man*
+
+Time to get to work.
 
 ---
 
