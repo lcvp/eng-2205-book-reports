@@ -16,5 +16,5 @@ Time to get to work.
 [Click to go back to Home][readme]
 
 [readme]: ../README.md
-[glasses-to-saitama]: https://github.com/user-attachments/assets/a7594afd-32ff-400d-8764-64ee4c152279
+[glasses-to-saitama]: https://i.imgur.com/noOuIMG.png 
 [opm-chapter-20-7]: https://onepunchmanofficial.com/chapter/20-7/
