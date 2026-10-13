@@ -1,18 +1,15 @@
 # ENG-2205 Book Reports
 
-https://lcvp.github.io/eng-2205-book-reports/
+> "I was just reading... ah... books. So I'm not a moron.  
+> Anyway. Just finished the last one. The hardest one. Machiavelli. Do not know what all the fuss was about. Understood it perfectly. Have you read that one?  
+> Yeah, doubt it."  
+> — **Wheatley**, *Portal 2*
 
-My Fall 2026 Book Reports for ENG-2205.
+Read the [About page](./about.md). Very cool.
 
-## Overview
+---
 
-License: [GPLv3][license].
-Hosted with [Github Pages][github-pages].
-Built using [Jekyll][jekyll].
+## Blog posts
 
-For everything else please refer to [`index.md`][index-md].
-
-[license]: ./LICENSE
-[github-pages]: https://docs.github.com/en/pages
-[jekyll]: https://jekyllrb.com/
-[index-md]: ./index.md
+- [2026/Oct/16: The Epic of Gilgamesh](./_posts/2026-10-16-the-epic-of-gilgamesh.md)
+- [2026/Oct/11: Prologue: A New Wind Blows](./_posts/2026-10-11-prologue-a-new-wind-blows.md)
