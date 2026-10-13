@@ -13,4 +13,4 @@ Time to get to work.
 
 [Click to go back to Home][readme]
 
-[readme]: ./README.md
+[readme]: ../README.md
