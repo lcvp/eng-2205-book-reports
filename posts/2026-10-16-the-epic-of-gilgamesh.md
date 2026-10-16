@@ -213,6 +213,10 @@ Bravo, Vince. I can't believe this isn't satire.
 
 ---
 
+[Click to go back to Home][readme]
+
+[readme]: ../README.md
+
 [boros-to-saitama]: https://i.imgur.com/VLMnGvf.png
 [seven-page-muda]: https://i.imgur.com/L9UNqY8.jpeg
 [an-iq-too-high]: https://i.imgur.com/Xlc7zbm.jpeg
@@ -228,8 +232,3 @@ Bravo, Vince. I can't believe this isn't satire.
 [^8]: https://en.wikipedia.org/wiki/Role-playing_game
 [^9]: https://en.wikipedia.org/wiki/Dungeons_%26_Dragons
 
----
-
-[Click to go back to Home][readme]
-
-[readme]: ../README.md
