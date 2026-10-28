@@ -9,6 +9,7 @@ Read the [About page](./about.md). Very cool.
 
 ## Blog posts
 
+- [2026/Oct/30: The Hebrew Bible, The Iliad](./posts/2026-10-30-the-hebrew-bible-the-iliad.md)
 - [2026/Oct/23: Hamlet](./posts/2026-10-23-hamlet.md)
 - [2026/Oct/16: The Epic of Gilgamesh](./posts/2026-10-16-the-epic-of-gilgamesh.md)
 - [2026/Oct/11: Prologue: A New Wind Blows](./posts/2026-10-11-prologue-a-new-wind-blows.md)
