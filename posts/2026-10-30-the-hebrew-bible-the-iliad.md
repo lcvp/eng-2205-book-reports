@@ -63,6 +63,69 @@ In the game, every characters have so much personality, style. They were so well
 I mean, just look at Achilles.  
 ![achilles-hades-design]
 
+### Product of the time
+
+Without any sugarcoating: the characters, the gods, the *"heroes"* are mostly mentally deficient and morally detached.  
+Maybe it was less weird back then, but the text gloss over slaves and treating humans like object like it was just another day in the park.  
+
+> "You prophet of disaster!  
+> Your words have never done me any good.  
+> You always love foretelling pain and trouble  
+> but you have never mentioned or fulfilled  
+> one single good thing. Now you tell the Greeks  
+> more tales about the wishes of the gods.  
+> You claim the archer laid this plan on us  
+> because I did not want to take the ransom.  
+> I want the girl Chryseis in my home.  
+> I like her more than my own Clytemnestra,  
+> my wife. You see, she is no worse than her  
+> in figure, height, intelligence, or skill.  
+> But I am still prepared to give her back,  
+> if that is best. I want the army safe,  
+> so I am not the only Greek commander  
+> who lacks a trophy. That would be unfair.  
+> You can all see my trophy going elsewhere."  
+> ― **Agamemnon**, *The Ilaid, Book 1, 143-160, Emily Wilson's translation*
+
+Agamemnon is dumb. Insults the messenger, then throws baby tantrums.  
+The character makes no logical sense. He is pretty one-dimensional. There is no depth to him. And the same would be true for most gods and characters too.
+
+The gods are completely detached too. It's as if they are playing a sandbox game, treating human like NPCs of sorts.
+Apollo murders a bunch of men because one dude angers him.  
+
+### Main character(s) syndrome
+
+You ever watch those movies, where after a long and arduous fight, the hero decides to spare the life of the villain responsible for countless suffering, saying corny shit like "If I kill you, I'd be just like you."    
+Even though they mercilessly murdered a few dozens henchmen on their way towards the villain? Who were mostly mercenaries who were merely doing their job to provide for their family.
+They even have a name for that trope: [What Measure Is A Mook?][what-measure-is-a-mook].
+
+The Iliad suffers from a case of that too.  
+Main character(s) lives are treated with reverence, while the murder of a few hundred background characters are swept under the rug.  
+Not just from the author, but from everyone, the gods, the heroes, the villains.
+
+### Forgotten Hero
+
+In Hades, Achilles is very much a likable dude. He is the mentor of the character, he is humble. I have a sense that he had done something bad in his past, as he admitted he had done regrettable things when he was alive.  
+I didn't know what I expected, but it was certainly not this. This isn't the Achilles I know.
+
+Much like other characters in the epic, Achilles is murderous, selfish, lack self-awareness, and participates in owning slaves.  
+
+> "And I will choose twelve lovely Trojan children  
+> and slit their throats above your funeral pyre,  
+> because I am so angry at your death"  
+> ― **Achilles**, *Book 18, 335
+
+Normalizing murdering of innocent children.
+
+> They got your boy? And what fucking line am I supposed to have crossed? How many fathers, right, how many sons, yeah, have you cut, killed, murdered, fucking butchered, innocent and guilty and sent them straight to fucking hell ain' ya? Just like me! You fucking stand there. You judging me, stand there, and talk to me about crossing some fucking line?  
+> ― **Alfie Solomons**, *Peaky Blinders*
+
+This should be Hector's response when Achilles laments about the death of Patroclus and his companions (Book 22, page ~360, Emily Wilson's translation).
+
+### Expectations
+
+I guess I hyped up the work way to much in my head. It isn't bad, per se, it just wasn't this transcendental experience I was naively expecting it to be.
+
 ## The Hebrew Bible
 
 > "Is that what God does? He helps? Tell me, why didn't God help my innocent friend who died for no reason while the guilty roam free? Okay. Fine. Forget the one offs.  
@@ -88,6 +151,8 @@ But just looking at the NAWL's introduction, isn't God's response to Job when qu
 > Where were you when I founded earth?"
 > ― **God**, *Job 31, 38, 3-5*
 
+Oh man, you created me, so i'm guessing its perfectly fine and moral for you to make me suffer agonizing pain and emotional distress.
+
 ---
 
 [Click to go back to Home][readme]
@@ -96,3 +161,4 @@ But just looking at the NAWL's introduction, isn't God's response to Job when qu
 
 [hades-the-game]: https://store.steampowered.com/app/1145360/hades/
 [achilles-hades-design]: https://static.wikia.nocookie.net/hades_gamepedia_en/images/0/03/Portraits_Achilles_01.png/
+[what-measure-is-a-mook]: https://tvtropes.org/pmwiki/pmwiki.php/Main/WhatMeasureIsAMook
