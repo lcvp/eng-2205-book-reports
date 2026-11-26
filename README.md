@@ -10,6 +10,7 @@ Read the [About page](./about.md). Very cool.
 ## Blog posts
 
 - [2026/Dec/04: Medea, Lysistrata](./posts/2026-12-04-medea-lysistrata.md)
+- [2026/Nov/28: Extra Credit: Kahaani](./posts/2026-11-28-extra-credit-kahaani.md)
 - [2026/Nov/21: Extra Credit: Amrum](./posts/2026-11-21-extra-credit-amrum.md)
 - [2026/Nov/20: Oedipus the King, Free and Easy Wandering](./posts/2026-11-20-oedipus-the-king-free-and-easy-wandering.md)
 - [2026/Nov/13: The Persians, Analects](./posts/2026-11-13-the-persians-analects.md)
